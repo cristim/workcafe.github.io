@@ -5,6 +5,12 @@
       "city": "Cluj-Napoca",
       "country": "România",
       "continent": "EU"
+    },
+    {
+      "id": "berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "continent": "EU"
     }
   ]
 }

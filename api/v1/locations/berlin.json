@@ -1,0 +1,37 @@
+{
+  "id": "berlin",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "yamyam",
+        "title": "YamYam",
+        "description": "http://www.yamyam-berlin.de",
+        "address": "Alte Schönhauser Str. 6, 10119 Berlin",
+        "opens_at": 12,
+        "closes_at": 23,
+        "special_weekend_hours": false,
+        "has_food": true,
+        "smoking_allowed": false,
+        "wifi_networks": 1,
+        "wifi_password": "yamyambulgogi2010",
+        "loud_music": false,
+        "comfy_chairs": false,
+        "has_desks": false,
+        "has_toilet": true,
+        "bike_parking": true,
+        "car_parking": false,
+        "hosts_events": false,
+        "big_windows": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.411946,
+          52.529277
+        ]
+      }
+    }
+  ]
+}
